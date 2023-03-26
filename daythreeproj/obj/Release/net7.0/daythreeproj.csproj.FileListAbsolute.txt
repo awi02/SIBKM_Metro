@@ -1,0 +1,15 @@
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\bin\Release\net7.0\daythreeproj.exe
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\bin\Release\net7.0\daythreeproj.deps.json
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\bin\Release\net7.0\daythreeproj.runtimeconfig.json
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\bin\Release\net7.0\daythreeproj.dll
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\bin\Release\net7.0\daythreeproj.pdb
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.csproj.AssemblyReference.cache
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.AssemblyInfoInputs.cache
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.AssemblyInfo.cs
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.csproj.CoreCompileInputs.cache
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.dll
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\refint\daythreeproj.dll
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.pdb
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\daythreeproj.genruntimeconfig.cache
+C:\Users\awilu\source\repos\daythreeproj\daythreeproj\obj\Release\net7.0\ref\daythreeproj.dll

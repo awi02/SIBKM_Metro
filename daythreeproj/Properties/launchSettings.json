@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "daythreeproj": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

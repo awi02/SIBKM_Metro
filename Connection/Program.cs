@@ -22,7 +22,7 @@ public class Program
         //Console.WriteLine(ex.ToString());
         //}
         GetAllCountry();
-        // GetbyIdCount("Singapore");
+        // GetbyIdCount("SG");
         //Insertcount("WG","Warga Setan",3);
         // Updatecount("WG", "Warga Gundul", 4);
         //Deletecont("WG");
@@ -58,7 +58,7 @@ public class Program
         connection = new SqlConnection(connectionstring);
         SqlCommand command = new SqlCommand();
         command.Connection = connection;
-        command.CommandText = "Select * From country Where name = @id;";
+        command.CommandText = "Select * From country Where id = @id;";
 
         SqlParameter pID = new SqlParameter();
         pID.ParameterName = "@id";
